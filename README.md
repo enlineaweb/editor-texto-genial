@@ -1,6 +1,8 @@
 # Editor de Texto HTML Gratis
 ![Editor de Texto HTML](https://digitalrecurso.com/archivo/web-genial/portada-editor-texto-genial.jpg)
 ## Simple y práctico editor de texto solo html en línea. Edita texto en una plantilla web, en blanco, meditante el bloc de notas, con texto plano (txt), y guarda el archivo en formato web (html).
+> [!IMPORTANT]
+> ### Accede a la Versión Gratis [Editor de Texto Genial](https://digitalrecurso.com/EDITOR_TEXTO_GENIAL/HTML/web.html).
 
 > [!TIP]
 > | Es gratis por descarga con archivo de solo texto doc.txt<br>
